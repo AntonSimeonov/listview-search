@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FretLink Test Task</string>
+    <string name="et_activity_welcome_search_hint">Search...</string>
+</resources>
